@@ -1,0 +1,14 @@
+{
+  "projectrc_version": '1.0.1',
+  "contact_email": 'awmyhr@gmail.com',
+  "contact_name": 'awmyhr',
+  "email": 'b'awmyhr@gmail.com'',
+  "full_name": 'b'awmyhr'',
+  "project_home": 'https://github.com/awmyhr/ansible-role_template',
+  "project_name": 'Example Ansible Role 2',
+  "project_slug": 'ex-ansible-r2',
+  "project_abbr": 'ex-ansible-r2',
+  "project_version": '0.1.0',
+  "software_copyright": '2020',
+  "software_license": 'Apache-2.0'
+}

@@ -1,0 +1,6 @@
+---
+# tasks file for role_second
+- name: Identify self
+  ansible.builtin.debug:
+    msg: Second role is now printing this on {{ inventory_hostname }}.
+    verbosity: 0
